@@ -1,4 +1,9 @@
-# Jeevan's Portfolio
+# Jeevan's Data Analysis Portfolio
 
-# [Project 1: King County House data Intereactive Dashboard]
+Welcome! Here's an overview of my projects:
 
+## Projects
+| # | Project | Tools | Description |
+|---|---------|-------|-------------|
+| 1 | [King County House Sales Dashboard](./01_King_County_House_Sales/) | Tableau | Interactive dashboard analyzing house sales data |
+| 2 | Coming soon... | | |
