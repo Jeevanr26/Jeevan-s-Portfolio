@@ -20,3 +20,4 @@ picture of the market without overwhelming you with numbers.
 **Tools used:** Tableau  
 **Dataset:** King County House Sales (publicly available dataset covering 
 2014 to 2015 sales records)
+[View Live Dashboard](https://public.tableau.com/shared/P3D4WBZ9B?:display_count=n&:origin=viz_share_link)
