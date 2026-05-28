@@ -108,5 +108,5 @@ review regardless of its performance.
 
 ---
 
-*Dataset is synthetic and generated for portfolio demonstration purposes.*
+*Dataset is synthetic and generated for portfolio demonstration.*
 *Author: Jeevan Rathakrishnan | May 2026*
