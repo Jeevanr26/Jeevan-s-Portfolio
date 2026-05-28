@@ -1,0 +1,5 @@
+risk_tier,customers,avg_charges,actual_claim_rate,avg_predicted_prob
+Low Risk,251,18040.695,0.112,0.097
+Moderate Risk,397,22577.888,0.224,0.212
+High Risk,282,31323.32,0.418,0.388
+Very High Risk,70,39471.965,0.486,0.643

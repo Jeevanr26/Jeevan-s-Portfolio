@@ -1,0 +1,4 @@
+Model,Test AUC,CV AUC Mean,CV AUC Std,Avg Precision
+Logistic Regression,0.716,0.7113,0.0175,0.4537
+Random Forest,0.6656,0.6668,0.0163,0.3967
+Gradient Boosting,0.6988,0.6952,0.015,0.4278
