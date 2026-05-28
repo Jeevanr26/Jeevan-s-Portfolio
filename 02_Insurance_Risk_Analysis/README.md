@@ -77,7 +77,6 @@ review regardless of its performance.
 02_Insurance_Risk_Analysis/
 ├── insurance_risk_analysis.py    # Full analysis script with commentary
 ├── insurance_portfolio.csv       # Synthetic dataset (5,000 policyholders)
-├── dashboard.html                # Executive summary dashboard
 ├── feature_importance.csv        # Model feature importance output
 ├── risk_tier_summary.csv         # Portfolio segmentation results
 ├── model_metrics.csv             # Cross-validation model comparison
